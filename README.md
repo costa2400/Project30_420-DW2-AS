@@ -1,9 +1,9 @@
 # Project30_420-DW2-AS
-## Web Client Development Project30 Lavn
-VN is the abbreviation for Vietnam and the word "La" with an accent literally means "this is" in Vietnamese. In short, Lavn means "This is Vietnam".
+## Web Client Development Project Costa Giannakakis
+
 
 ## Introduction
-In this project, I have created a website for a Vietnamese restaurant call Lavn.
+In this project, I have created a website for my favourite Vietnamese restaurant call Lavn.
 
 ### Table of Contents
 - [Prerequisites](#prerequisites)
@@ -51,6 +51,6 @@ The website allows the user to register, login and then reserve a table from the
 
 ## Author
 
-* Hoang Nhan Duyen Nguyen
+* Konstantinos Giannakakis
 
 [Back To The Top](#Project30_420-DW2-AS)
